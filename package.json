@@ -1,0 +1,22 @@
+{
+  "name": "generator-toytool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngineerYZ/toy-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngineerYZ/toy-tool/issues"
+  },
+  "homepage": "https://github.com/EngineerYZ/toy-tool#readme",
+  "dependencies": {
+    "yeoman-generator": "^4.2.0"
+  }
+}

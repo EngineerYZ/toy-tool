@@ -1,0 +1,22 @@
+{
+  "name": "template-tt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "nyc",
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngineerYZ/toy-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngineerYZ/toy-tool/issues"
+  },
+  "homepage": "https://github.com/EngineerYZ/toy-tool#readme"
+}
